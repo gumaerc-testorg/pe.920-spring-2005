@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about topicwise coverage of labs and
+  seminars.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

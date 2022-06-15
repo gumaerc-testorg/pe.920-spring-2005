@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes course notes. These serve as the primary reading
+  material for this course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
